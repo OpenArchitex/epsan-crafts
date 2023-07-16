@@ -3,8 +3,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `EpsanCrafts`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `Epsan Crafts`,
+    author: `OpenArchitex`,
+    description: `Epsan Crafts - Handmade Crafts`,
+    siteUrl: `https://www.epsancrafts.lk`
   },
   plugins: ["gatsby-plugin-theme-ui", "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
     resolve: 'gatsby-source-filesystem',
