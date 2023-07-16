@@ -1,11 +1,9 @@
-<div style="text-align: center;">
-  <p>
-    <img alt="Epsan Crafts" src="https://github.com/OpenArchitex/epsan-crafts/blob/main/src/images/favicon.svg" width="60" />
-  </p>
-  <h1>
-    Epsan Crafts
-  </h1>
-</div>
+<p align="center">
+  <img alt="Epsan Crafts" src="https://github.com/OpenArchitex/epsan-crafts/blob/main/src/images/favicon.svg" width="60" />
+</p>
+<h1 align="center">
+  Epsan Crafts
+</h1>
 
 ![Gatsby Build](https://github.com/OpenArchitex/epsan-crafts/workflows/Gatsby%20Build/badge.svg)
 
