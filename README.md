@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Epsan Crafts" src="https://github.com/OpenArchitex/epsan-crafts/blob/main/src/images/favicon.svg" width="60" />
+  <img alt="Epsan Crafts" src="https://github.com/OpenArchitex/epsan-crafts/blob/main/src/images/favicon.svg" width="80" />
 </p>
 <h1 align="center">
   Epsan Crafts
