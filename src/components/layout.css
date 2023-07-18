@@ -1,0 +1,78 @@
+.navbar-links {
+  font-family: "Dancing Script", sans-serif;
+  font-size: 30px;
+}
+
+.navbar-link-icons {
+  font-size: 20px;
+}
+
+.nav-image {
+  width: 25%;
+  min-width: 290px;
+}
+
+.featureImageTitle {
+  z-index: -1;
+}
+
+.featureImageContainer {
+  position: relative;
+}
+
+@media (hover: hover) {
+  .featureImage:hover {
+    opacity: 0.2;
+    cursor: pointer;
+  }
+
+  .featureImageTitle {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: grey;
+    font-weight: 700;
+    font-family: "Dancing Script", cursive;
+    font-size: 35px;
+  }
+
+  .featureImageContainer:hover .featureImageTitle {
+    display: block;
+  }
+}
+
+@media (hover: none) {
+  .featureImage {
+    opacity: 0.3;
+  }
+
+  .featureImageTitle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-weight: 700;
+    font-family: "Dancing Script", cursive;
+    font-size: 35px;
+  }
+}
+
+.image-container {
+  cursor: zoom-in;
+}
+
+.modal-image-container {
+  cursor: zoom-out;
+  padding: 0;
+}
+
+.modal-image-body {
+  padding: 0;
+}
+
+.modal-content {
+  width: auto;
+}
