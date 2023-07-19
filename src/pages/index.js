@@ -36,7 +36,7 @@ const IndexPage = () => {
     <Layout>
       <Container className="py-5">
         <p>
-          High quality, custom-built wood products like furniture, home decor
+          High quality, custom-built wood products like home decor
           and more that will bring lasting warmth, beauty and elegance to any
           home. We will work with you to create that truly unique designs that
           you've always wanted; handcrafted to perfection!
