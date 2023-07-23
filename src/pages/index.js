@@ -13,7 +13,7 @@ const sendEmailLInk = (
   <a
     aria-label="email"
     style={{ textDecoration: "none" }}
-    href="mailto:email2gihani@gmail.com"
+    href="mailto:epsanlito@gmail.com"
   >
     send us an email
   </a>

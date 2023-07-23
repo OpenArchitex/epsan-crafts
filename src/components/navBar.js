@@ -35,7 +35,7 @@ const NavBar = () => (
           </Nav.Link>
           <Nav.Link
             className="px-3 link-secondary"
-            href="mailto:email2gihani@gmail.com"
+            href="mailto:epsanlito@gmail.com"
           >
             <FontAwesomeIcon icon={["far", "envelope"]} />
           </Nav.Link>

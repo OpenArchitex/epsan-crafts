@@ -33,7 +33,7 @@ const Footer = () => (
                 <a
                   aria-label="email"
                   style={{ color: "inherit" }}
-                  href="mailto:email2gihani@gmail.com"
+                  href="mailto:epsanlito@gmail.com"
                 >
                   <FontAwesomeIcon icon={["far", "envelope"]} size="2x" />
                 </a>

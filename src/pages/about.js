@@ -40,9 +40,9 @@ const About = () => (
             <a
               aria-label="contact link"
               style={{ textDecoration: "none" }}
-              href="mailto:email2gihani@gmail.com"
+              href="mailto:epsanlito@gmail.com"
             >
-              email2gihani@gmail.com
+              epsanlito@gmail.com
             </a>
           </p>
           <p>
