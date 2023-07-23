@@ -2,6 +2,7 @@ import * as React from "react";
 import { Container, Image, Nav, Row } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import brandLogo from "../images/brandLogo.svg";
+import ListGroup from "react-bootstrap/ListGroup";
 
 const NavBar = () => (
   <>
@@ -21,6 +22,9 @@ const NavBar = () => (
           </Nav.Link>
         </Container>
         <Container className="d-flex justify-content-center navbar-link-icons pb-3">
+          <Nav.Link className="px-3 link-secondary" href="tel:+94770444855">
+            <FontAwesomeIcon icon={["fas", "phone"]} />
+          </Nav.Link>
           <Nav.Link
             className="px-3 link-secondary"
             href="https://www.facebook.com/people/Epsan-Crafts/100086183629982/"

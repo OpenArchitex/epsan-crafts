@@ -11,6 +11,15 @@ const Footer = () => (
             <ListGroup horizontal className="justify-content-center">
               <ListGroup.Item className="border-0">
                 <a
+                  aria-label="phone"
+                  style={{ color: "inherit" }}
+                  href="tel:+94770444855"
+                >
+                  <FontAwesomeIcon icon={["fas", "phone"]} size="2x" />
+                </a>
+              </ListGroup.Item>
+              <ListGroup.Item className="border-0">
+                <a
                   aria-label="facebook"
                   style={{ color: "inherit" }}
                   href="https://www.facebook.com/people/Epsan-Crafts/100086183629982/"

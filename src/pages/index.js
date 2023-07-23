@@ -19,15 +19,13 @@ const sendEmailLInk = (
   </a>
 );
 
-const scheduleMeeting = (
+const callLink = (
   <a
     aria-label="contact link"
     style={{ textDecoration: "none" }}
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://zcal.co/sudharaka/troubleshoot"
+    href="tel:+94770444855"
   >
-    schedule a meeting
+    give us a call
   </a>
 );
 
@@ -36,13 +34,13 @@ const IndexPage = () => {
     <Layout>
       <Container className="py-5">
         <p>
-          High quality, custom-built wood products like home decor
-          and more that will bring lasting warmth, beauty and elegance to any
-          home. We will work with you to create that truly unique designs that
-          you've always wanted; handcrafted to perfection!
+          High quality, custom-built wood products like home decor and more that
+          will bring lasting warmth, beauty and elegance to any home. We will
+          work with you to create that truly unique designs that you've always
+          wanted; handcrafted to perfection!
         </p>
         <p>
-          Have something in mind, {sendEmailLInk} or {scheduleMeeting}.
+          Have something in mind, {sendEmailLInk} or {callLink}.
         </p>
       </Container>
       <Container>

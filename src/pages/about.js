@@ -34,15 +34,28 @@ const About = () => (
 
       <Container className="py-4 px-0">
         <h4>Get in touch...</h4>
-        <Script
-          type="text/javascript"
-          src="https://static.zcal.co/embed/v1/embed.js"
-        ></Script>
-        <div className="zcal-inline-widget">
-          <a href="https://zcal.co/i/_e_bhGdx">
-            Discovery Call - Schedule a meeting
-          </a>
-        </div>
+        <Container className="py-4">
+          <p>
+            Email:{" "}
+            <a
+              aria-label="contact link"
+              style={{ textDecoration: "none" }}
+              href="mailto:email2gihani@gmail.com"
+            >
+              email2gihani@gmail.com
+            </a>
+          </p>
+          <p>
+            Phone:{" "}
+            <a
+              aria-label="contact link"
+              style={{ textDecoration: "none" }}
+              href="tel:+94770444855"
+            >
+              +94 77 044 4855
+            </a>
+          </p>
+        </Container>
       </Container>
     </Container>
   </Layout>
