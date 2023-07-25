@@ -2,7 +2,6 @@ import * as React from "react";
 import { Container, Image, Nav, Row } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import brandLogo from "../images/brandLogo.svg";
-import ListGroup from "react-bootstrap/ListGroup";
 
 const NavBar = () => (
   <>

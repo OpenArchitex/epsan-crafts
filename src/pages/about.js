@@ -5,7 +5,6 @@ import Seo from "../components/seo";
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { fontAwesomeIcons } from "../helpers/fontawesomeicons";
 import { Container } from "react-bootstrap";
-import { Script } from "gatsby";
 
 library.add(fontAwesomeIcons);
 
