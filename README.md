@@ -7,7 +7,7 @@
 
 ![Gatsby Build](https://github.com/OpenArchitex/epsan-crafts/workflows/Gatsby%20Build/badge.svg)
 
-This is the codebase for www.epsancrafts.lk website.
+This is the codebase for [www.epsancrafts.com](https://epsancrafts.com/) website.
 
 - If you have any question or comment feel free to use our [issue tracker](https://github.com/OpenArchitex/epsan-crafts/issues).
 
