@@ -16,7 +16,7 @@
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,css}\""
   },
   "dependencies": {
-    "gatsby": "^5.16.0",
+    "gatsby": "^5.16.1",
     "gatsby-plugin-image": "^3.16.0",
     "gatsby-plugin-manifest": "^5.16.0",
     "gatsby-plugin-sharp": "^5.15.0",
@@ -35,7 +35,7 @@
     "@fortawesome/react-fontawesome": "^3.3.1"
   },
   "devDependencies": {
-    "prettier": "^3.8.1"
+    "prettier": "^3.8.3"
   },
   "engines": {
     "node": "20.x",
